@@ -2,7 +2,7 @@
 # Use of this source code is governed by a MIT-style license that can
 # be found in the LICENSE file.
 
-CMAKE_MINIMUM_REQUIRED(VERSION 2.4)
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8.12)
 SET(CMAKE_VERBOSE_MAKEFILE OFF)
 SET(CMAKE_ALLOW_LOOSE_LOOP_CONSTRUCTS TRUE)
 
